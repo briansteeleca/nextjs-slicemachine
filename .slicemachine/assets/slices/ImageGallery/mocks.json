@@ -1,0 +1,82 @@
+[
+  {
+    "variation": "default-slice",
+    "name": "Default slice",
+    "slice_type": "image_gallery",
+    "items": [
+      {
+        "image": {
+          "dimensions": {
+            "width": 470,
+            "height": 260
+          },
+          "alt": "Placeholder image",
+          "copyright": null,
+          "url": "https://images.unsplash.com/photo-1593642532973-d31b6557fa68?w=470&h=260&fit=crop",
+          "large": {
+            "dimensions": {
+              "width": 727,
+              "height": 407
+            },
+            "alt": "Placeholder image",
+            "copyright": null,
+            "url": "https://images.unsplash.com/photo-1593642532973-d31b6557fa68?w=727&h=407&fit=crop"
+          }
+        },
+        "imageDescription": [
+          {
+            "type": "paragraph",
+            "text": "Occaecat magna nisi ex ea. Sunt anim ut duis consequat ipsum esse irure id sit. Proident labore officia ea sint occaecat et consectetur aliqua commodo consectetur culpa qui eu in.",
+            "spans": []
+          }
+        ],
+        "link": {
+          "link_type": "Web",
+          "url": "http://twitter.com"
+        },
+        "linkLabel": "matrix clicks-and-mortar partnerships"
+      },
+      {
+        "image": {
+          "dimensions": {
+            "width": 470,
+            "height": 260
+          },
+          "alt": "Placeholder image",
+          "copyright": null,
+          "url": "https://images.unsplash.com/photo-1515378960530-7c0da6231fb1?w=470&h=260&fit=crop",
+          "large": {
+            "dimensions": {
+              "width": 727,
+              "height": 407
+            },
+            "alt": "Placeholder image",
+            "copyright": null,
+            "url": "https://images.unsplash.com/photo-1515378960530-7c0da6231fb1?w=727&h=407&fit=crop"
+          }
+        },
+        "imageDescription": [
+          {
+            "type": "paragraph",
+            "text": "Deserunt laboris consectetur eiusmod sit tempor esse labore. Incididunt non id magna minim in non officia enim aute ut.",
+            "spans": []
+          }
+        ],
+        "link": {
+          "link_type": "Web",
+          "url": "https://prismic.io"
+        },
+        "linkLabel": "e-enable distributed vortals"
+      }
+    ],
+    "primary": {
+      "galleryTitle": [
+        {
+          "type": "paragraph",
+          "text": "Excepteur aliquip tempor id officia minim laborum consectetur consectetur qui commodo. Esse occaecat non elit est est officia mollit magna do occaecat id ut. Laboris irure dolor eiusmod ex ipsum officia minim velit eiusmod laboris dolor mollit nisi.",
+          "spans": []
+        }
+      ]
+    }
+  }
+]
